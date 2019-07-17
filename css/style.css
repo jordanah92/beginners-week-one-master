@@ -1,0 +1,37 @@
+body {
+  color: rgb(0,10,235);
+  font-family: cursive;
+  margin: 22px
+}
+div {
+  min-height: 50vh;
+  width: 50w;
+}
+h1, h2 {
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
+h2 {
+  font-size: 2em;
+}
+img {
+  display: flex;
+  padding: 20px;
+    margin: 0 auto;
+      border-radius: 130px;
+}
+li#lower {
+  margin-top: 7%;
+}
+li#lowest {
+  margin-top: 14%;
+}
+div.contrast {
+  background-color: rgb(197,179,88);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
